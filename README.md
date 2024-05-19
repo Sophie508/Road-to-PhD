@@ -16,14 +16,29 @@
 祝愿各位同学在直博之路上取得成功！
 
 ## Content Overview
-- [Something related to application 申请相关](#Something related to application 申请相关)
-- [淬炼抄袭](#淬炼抄袭)
-- [锻炼信条](#锻炼信条)
-- [高考模式](#高考模式)
-- [中美教育](#中美教育)
-- [自救指南](#自救指南)
+- [Something related to application 申请相关](#Something_related_to_application申请相关)
+- [Machine Learning](#Machine_Leaning)
+- [Reading Paper](#Reading_Paper)
+- [Thinking about PhD](#Thinking_about_PhD)
+- [Writing Paper](#Writing_Paper)
+- [Academic Connection](#Academic_Connection)
 - [科学问题](#科学问题)
 
 
 
-## Something related to application 申请相关
+## Something_related_to_application申请相关
+
+
+
+## Machine_Leaning
+
+
+## Reading_Paper
+
+
+## Thinking_about_PhD
+
+## Writing_Paper
+
+## Academic_Connection
+[Academic twitter] (https://medium.com/@smojarad/a-beginners-guide-to-academic-twitter-f483dae86597)
