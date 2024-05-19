@@ -22,24 +22,39 @@
 - [Thinking about PhD](#Thinking_about_PhD)
 - [Writing Paper](#Writing_Paper)
 - [Academic Connection](#Academic_Connection)
-- [科学问题](#科学问题)
+- [HCI realtive](#HCI)
 
 
 
 ## Something_related_to_application申请相关
+[General steps](https://www.ivyscholars.com/phd-admission-guide/)<br>
+[Personal experience application](https://masum-hasan.medium.com/how-i-got-4-ph-d-offers-in-the-us-with-a-cgpa-2-79-and-what-can-you-learn-from-it-5f460e6bfbb1)<br>
 
 
 
 ## Machine_Leaning
-[GMMcode](https://tomohiroliu22.medium.com/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98%E7%B3%BB%E5%88%97-92-%E9%AB%98%E6%96%AF%E6%B7%B7%E5%90%88%E6%A8%A1%E5%9E%8B-gaussian-mixture-models-8a74ab279bfe)
-[RandomForestcode](https://bookdown.org/gmli64/do_a_data_science_project_in_10_days/steps-to-build-a-random-forest.html)
+[GMMcode](https://tomohiroliu22.medium.com/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98%E7%B3%BB%E5%88%97-92-%E9%AB%98%E6%96%AF%E6%B7%B7%E5%90%88%E6%A8%A1%E5%9E%8B-gaussian-mixture-models-8a74ab279bfe)<br>
+[RandomForestcode](https://bookdown.org/gmli64/do_a_data_science_project_in_10_days/steps-to-build-a-random-forest.html)<br>
+[Classicifier](https://medium.com/edureka/machine-learning-classifier-c02fbd8400c9)
 
 ## Reading_Paper
-[How to read paper](https://eshashandilya.medium.com/reading-a-research-paper-made-easy-5e0e6d021e70))
+[How to read paper](https://eshashandilya.medium.com/reading-a-research-paper-made-easy-5e0e6d021e70)<br>
+[TXYZ tool](https://app.txyz.ai/chat/96351e31-4188-4712-ac51-af68fa1bc5b0)<br>
+[Read paper tool](https://readpaper.com/ )<br>
+[LiMu reading method](https://www.bilibili.com/video/BV1H44y1t75x/?share_source=copy_web&vd_source=450e2433c7db68264f43fdbc2d54b3e2)
 
 ## Thinking_about_PhD
+[Why PHD?](https://www.earlham.ac.uk/articles/phd-it-worth-it-just-ask-our-students)
+
+
 
 ## Writing_Paper
 
+
 ## Academic_Connection
 [Academic twitter](https://medium.com/@smojarad/a-beginners-guide-to-academic-twitter-f483dae86597)
+
+
+
+## HCI
+[GIF graph](https://kineticharts.idvxlab.com/#)<br>
