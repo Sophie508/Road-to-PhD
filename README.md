@@ -31,7 +31,7 @@
 
 
 ## Machine_Leaning
-
+[GMMcode](https://tomohiroliu22.medium.com/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98%E7%B3%BB%E5%88%97-92-%E9%AB%98%E6%96%AF%E6%B7%B7%E5%90%88%E6%A8%A1%E5%9E%8B-gaussian-mixture-models-8a74ab279bfe)
 
 ## Reading_Paper
 
@@ -41,4 +41,4 @@
 ## Writing_Paper
 
 ## Academic_Connection
-[Academic twitter] (https://medium.com/@smojarad/a-beginners-guide-to-academic-twitter-f483dae86597)
+[Academic twitter](https://medium.com/@smojarad/a-beginners-guide-to-academic-twitter-f483dae86597)
